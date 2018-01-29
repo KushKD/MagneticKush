@@ -1,0 +1,22 @@
+
+/* Winter
+***************************************************************/
+body.thumb {
+  font-family: 'Gentium Basic', serif;
+}
+
+.thumb h1, .winter .h1,
+.thumb h2, .winter .h3,
+.thumb h3, .winter .h4,
+.thumb h4, .winter .h5,
+.thumb h5, .winter .h5,
+.thumb h6, .winter .h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+.thumb #intro {
+  background: url("../images/thumb.png") no-repeat center center scroll;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
