@@ -93,13 +93,10 @@ body,
   height: 100%;
 }
 
-p {
-  font-size: 1.2em;
-  line-height: 1.4em;
-}
+
 
 blockquote {
-  font-size: 1.4em;
+  font-size: 1em; 
   line-height: 1.4em;
 }
 
@@ -275,9 +272,7 @@ blockquote {
 
 .post .description {
   color: #344151;
-  font-size: 1.15em;
   font-weight: 400;
-  letter-spacing: 0.01em;
   line-height: 1.5em;
 }
 
@@ -286,10 +281,7 @@ blockquote {
   font-size: 96%;
 }
 
-.post.single,
-.post.featured {
-  font-size: 1.2em;
-}
+
 
 /* Collections 
 ***************************************************************/
@@ -408,16 +400,36 @@ blockquote {
   position: absolute;
 }
 
+.page-brand2 {
+  margin-left: 1em;
+  margin: 14px;
+  position: fixed;
+}
+
 @media (min-width: 992px) {
   .page-brand {
     position: fixed;
     margin: 18px;
   }
+  .page-brand2 {
+  margin-left: 1em;
+  margin: 14px;
+  position: fixed;
+}
 }
 
 .page-brand img {
   border-radius: 50%;
   border: 2px solid #fff;
+}
+
+.page-brand2 img{
+   border-radius: 50%;
+  border: 2px solid #fff;
+}
+.page-brand2:hover {
+  opacity: 1;
+  cursor: pointer;
 }
 
 .page-brand:hover {

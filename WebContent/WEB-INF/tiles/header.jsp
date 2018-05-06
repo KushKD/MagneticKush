@@ -25,7 +25,7 @@
     <link href="${pageContext.request.contextPath}/magnetickush/css/animate.css" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="${pageContext.request.contextPath}/magnetickush/css/anthem.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/magnetickush/css/anthem.css" rel="stylesheet"> 
     <link href="${pageContext.request.contextPath}/magnetickush/css/anthem-themes.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/magnetickush/css/custom.css" rel="stylesheet">
 

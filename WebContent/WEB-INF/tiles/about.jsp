@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<header class="parallax-window" data-parallax="scroll" data-image-src="${pageContext.request.contextPath}/magnetickush/images/about.jpg" data-speed="0.8"></header>
+<header class="parallax-window" data-parallax="scroll" data-image-src="${pageContext.request.contextPath}/magnetickush/images/thumb.png" data-speed="0.8"></header>
     
       <div id="content" class="container">
         <div class="row">
@@ -13,7 +13,7 @@
               </header>
               <div class="description">
                 <p>
-                  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
+                Fiery,Ambitious,
                 </p>
                 <blockquote>
                   Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.

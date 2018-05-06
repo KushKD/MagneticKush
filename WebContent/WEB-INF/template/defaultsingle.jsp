@@ -13,12 +13,14 @@
 
 </head>
 <body >
-<div id="main">
+<div id="main" >
       <a class="page-brand" href="${pageContext.request.contextPath}/#open">
-        <img class="brand wow zoomIn" alt="Kush Kumar Dhawan" height="80" width="80" src="${pageContext.request.contextPath}/magnetickush/images/avatar.png">
+        <img class="brand wow zoomIn" alt="Kush Kumar Dhawan" height="75" width="80" src="${pageContext.request.contextPath}/magnetickush/images/avatarf.png">
       </a>
+      
       <tiles:insertAttribute name="body"></tiles:insertAttribute>
       <tiles:insertAttribute name="footer"></tiles:insertAttribute>
+     
     </div><!-- /#main -->
 
     <!-- Scripts -->

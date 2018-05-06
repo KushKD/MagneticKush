@@ -21,18 +21,17 @@
                 <section class="post featured wow fadeIn">
                   <header>
                     <h2 class="title">
-                      <a href="${pageContext.request.contextPath}/single">One day in the forest</a>
+                      <a href="${pageContext.request.contextPath}/single">Me and the Middle Land "SPITI"</a>
                     </h2>
                     
                   </header>
                   <div class="description">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor.
-                    </p>
+                      Months can be spend in this beautiful valley . The Valley is just the right place for wanderers,Invntors and Explorers. It is the Said that the True meaning of life is Walking , and Walking or Climbing over these mountain ranges can just make u talk to yourself or finding your Soul.   </p>
                   </div>
                   <footer>
                     <p class="meta">
-                      <a class="auther" href="author.html">Paul Laros</a> in <a class="collection" href="collection.html">Travel</a> ● <a class="date" href="date.html">April 13, 2015</a>
+                      <a class="auther" href="author.html">Kush Kumar Dhawan</a> in <a class="collection" href="collection.html">Travel</a> ● <a class="date" href="date.html">October 15, 2016</a>
                     </p>
                   </footer>
                 </section>
@@ -40,18 +39,18 @@
                 <section class="post wow fadeIn">
                   <header>
                     <h2 class="title">
-                      <a href="${pageContext.request.contextPath}/single">Once upon a time</a>
+                      <a href="${pageContext.request.contextPath}/single">The Ingredients</a>
                     </h2>
                     
                   </header>
                   <div class="description">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor.
-                    </p>
+                      (Sun,Mountians,Glassy Lake,Chilled Water, Green Grass,White Snow, Gold Grass,GREY Stones, FOXES Rare Birds, Cold Wind , Blue SkY , Just One Cloud ,Cucumbers ,Oranges, Four Local Friends and One Gypsy).
+                       </p>
                   </div>
                   <footer>
                     <p class="meta">
-                      <a class="auther" href="author.html">Paul Laros</a> in <a class="collection" href="collection.html">Life</a> ● <a class="date" href="date.html">March 12, 2015</a>
+                      <a class="auther" href="author.html">Kush Kumar Dhawan</a> in <a class="collection" href="collection.html">Travel</a> ● <a class="date" href="date.html">April 15, 2017</a>
                     </p>
                   </footer>
                 </section>
@@ -64,7 +63,7 @@
                 
                 <section class="collections">
                   <div class="row">
-                    <div class="collection col-sm-4 col-xs-6">
+                   <!--   <div class="collection col-sm-4 col-xs-6">
                       <a class="content text-center" href="collection.html">
                         <img src="${pageContext.request.contextPath}/magnetickush/images/collection/culture.jpg" class="img-responsive" />
                         <div class="caption">
@@ -134,7 +133,7 @@
                         <span class="btn btn-lg btn-outline btn-default">1 posts</span>
                         </div>
                       </a>
-                    </div>
+                    </div> -->
 
                     <div class="collection col-sm-4 col-xs-6">
                       <a class="content text-center" href="collection.html">
@@ -146,7 +145,7 @@
                       </a>
                     </div>
 
-                    <div class="collection col-sm-4 col-xs-6">
+                  <!--   <div class="collection col-sm-4 col-xs-6">
                       <a class="content text-center" href="collection.html">
                         <img src="${pageContext.request.contextPath}/magnetickush/images/collection/work.jpg" class="img-responsive" />
                         <div class="caption">
@@ -154,7 +153,7 @@
                         <span class="btn btn-lg btn-outline btn-default">2 posts</span>
                         </div>
                       </a>
-                    </div>
+                    </div>  --> 
 
 
                   </div>

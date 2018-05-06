@@ -20,15 +20,18 @@
           <div class="content text-center wow fadeIn">
 
             <a href="${pageContext.request.contextPath}/">
-              <img class="brand wow zoomIn" alt="Kush Kumar Dhawan" height="185" width="200" src="${pageContext.request.contextPath}/magnetickush/images/avatarf.png">
+              <img class="brand wow zoomIn" alt="Kush Kumar Dhawan" height="165" width="180" src="${pageContext.request.contextPath}/magnetickush/images/avatarf.png">
             </a>
 
             <h1>MagneticKush</h1>
-            <p>"Whatever can happen will happen"</p>
+           <!--   <p>"Whatever can happen will happen"</p> -->
+            <p>"Over every mountain there is a path, although it may not be seen from the valley"</p>
             <p>
               <a href="#open" class="toggle-fullscreen btn btn-default btn-outline btn-lg wow tada hidden-xs hidden-sm">Blog</a> 
               <a href="${pageContext.request.contextPath}/about#open" class="btn btn-outline btn-default btn-lg">About</a>
               <a href="${pageContext.request.contextPath}/contact#open" class="btn btn-outline btn-default btn-lg">Contact</a>
+              <a href="${pageContext.request.contextPath}/magnetickush/pdf/KushKumarDhawan.pdf" class="btn btn-outline btn-default btn-lg">Resume</a>
+           
             </p>
           </div>
         </header>
